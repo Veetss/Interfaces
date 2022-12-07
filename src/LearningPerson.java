@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface LearningPerson {
+public interface LearningPerson {
+
+    public abstract void studyAtHome();
 }
