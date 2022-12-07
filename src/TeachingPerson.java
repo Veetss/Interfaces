@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface TeachingPerson {
+public interface TeachingPerson {
+
+    public abstract void teachToOtherPeople();
 }
